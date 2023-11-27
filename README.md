@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# medical-clinic
+This repository contains the source code for an appointment management system that operates in a medical clinic to manage patients' appointments. The system efficiently manages patient records, appointments, invoices, and receipts. Built by @kanishka55 using Laravel 10.10.
+>>>>>>> b7b99dd99714aa0f394eaef07eb9938714a2152d
